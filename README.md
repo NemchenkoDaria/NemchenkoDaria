@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently learning AI development
+- 🤔 I'm interested in new technologies
+- 👯 In my free time I like playing quizes
+- 📫 How to reach me: nemchenko.ds@gmail.com
+- 💬 My social media: https://vk.com/id27586635
 
 <!--
 **NemchenkoDaria/NemchenkoDaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
